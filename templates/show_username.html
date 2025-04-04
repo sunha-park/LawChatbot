@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <title>아이디 찾기 결과</title>
+</head>
+<body>
+    <div class="container">
+        <h2>아이디 찾기 결과</h2>
+        <p>회원님의 아이디는 <strong>{{ username }}</strong> 입니다.</p>
+        <div class="form-group">
+            <a href="{{ url_for('login') }}">
+                <button type="button">로그인하러 가기</button>
+            </a>
+        </div>
+    </div>
+</body>
+</html>
