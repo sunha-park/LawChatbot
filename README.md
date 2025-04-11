@@ -16,7 +16,7 @@
 
 ## 🎞 Youtube
 
-부동산 법률 챗봇 서비스에 대한 시연 영상입니다. LLM과 RAG 기술을 기반으로 사용자의 문의에 답변을 제공합니다.
+LLM 기반 법률 상담 챗봇 서비스 화면입니다. 사용자 문의에 대해 법률 정보를 실시간으로 검색하고 요약하여 제공합니다.
 <br />
 
 <table>
@@ -37,47 +37,39 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/sunha-park/myimages/blob/main/insurance/001.png" width="500"/></td>
-    <td><img src="https://github.com/sunha-park/myimages/blob/main/insurance/002.png" width="500"/></td>
+    <td><img src="https://github.com/sunha-park/myimages/blob/main/law/001.png" width="400"/></td>
+    <td><img src="https://github.com/sunha-park/myimages/blob/main/law/002.png" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/sunha-park/myimages/blob/main/insurance/003.png" width="500"/></td>
-    <td><img src="https://github.com/sunha-park/myimages/blob/main/insurance/004.png" width="500"/></td>
+    <td><img src="https://github.com/sunha-park/myimages/blob/main/law/003.png" width="400"/></td>
+    <td><img src="https://github.com/sunha-park/myimages/blob/main/law/004.png" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/sunha-park/myimages/blob/main/insurance/005.png" width="500"/></td>
-    <td><img src="https://github.com/sunha-park/myimages/blob/main/insurance/006.png" width="500"/></td>
+    <td><img src="https://github.com/sunha-park/myimages/blob/main/law/005.png" width="400"/></td>
+    <td><img src="https://github.com/sunha-park/myimages/blob/main/law/006.png" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/sunha-park/myimages/blob/main/insurance/007.png" width="500"/></td>
-    <td><img src="https://github.com/sunha-park/myimages/blob/main/insurance/008.png" width="500"/></td>
+    <td><img src="https://github.com/sunha-park/myimages/blob/main/law/007.png" width="400"/></td>
+    <td><img src="https://github.com/sunha-park/myimages/blob/main/law/008.png" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/sunha-park/myimages/blob/main/insurance/009.png" width="500"/></td>
-    <td><img src="https://github.com/sunha-park/myimages/blob/main/insurance/010.png" width="500"/></td>
+    <td><img src="https://github.com/sunha-park/myimages/blob/main/law/009.png" width="400"/></td>
+    <td><img src="https://github.com/sunha-park/myimages/blob/main/law/010.png" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/sunha-park/myimages/blob/main/insurance/011.png" width="500"/></td>
-    <td><img src="https://github.com/sunha-park/myimages/blob/main/insurance/012.png" width="500"/></td>
+    <td><img src="https://github.com/sunha-park/myimages/blob/main/law/011.png" width="400"/></td>
+    <td><img src="https://github.com/sunha-park/myimages/blob/main/law/012.png" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/sunha-park/myimages/blob/main/insurance/013.png" width="500"/></td>
-    <td><img src="https://github.com/sunha-park/myimages/blob/main/insurance/014.png" width="500"/></td>
+    <td><img src="https://github.com/sunha-park/myimages/blob/main/law/013.png" width="400"/></td>
+    <td><img src="https://github.com/sunha-park/myimages/blob/main/law/014.png" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/sunha-park/myimages/blob/main/insurance/015.png" width="500"/></td>
-    <td><img src="https://github.com/sunha-park/myimages/blob/main/insurance/016.png" width="500"/></td>
+    <td><img src="https://github.com/sunha-park/myimages/blob/main/law/015.png" width="400"/></td>
+    <td><img src="https://github.com/sunha-park/myimages/blob/main/law/016.png" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/sunha-park/myimages/blob/main/insurance/017.png" width="500"/></td>
-    <td><img src="https://github.com/sunha-park/myimages/blob/main/insurance/018.png" width="500"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/sunha-park/myimages/blob/main/insurance/019.png" width="500"/></td>
-    <td><img src="https://github.com/sunha-park/myimages/blob/main/insurance/020.png" width="500"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/sunha-park/myimages/blob/main/insurance/021.png" width="500"/></td>
-    <td></td>
+    <td><img src="https://github.com/sunha-park/myimages/blob/main/law/017.png" width="400"/></td>
+    <td><img src="https://github.com/sunha-park/myimages/blob/main/law/018.png" width="400"/></td>
   </tr>
 </table>
