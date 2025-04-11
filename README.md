@@ -23,8 +23,8 @@ LLM 기반 법률 상담 챗봇 서비스 화면입니다. 사용자 문의에 �
   <tr>
     ▼ 영상클릭
     <td>
-      <a href="https://www.youtube.com/watch?v=4G4kfpR3Djg&t=2s" title="챗봇/LLM/RAG/해외여행보험">
-        <img src="https://github.com/sunha-park/myimages/blob/main/youtube/20250409_164728.png" width="400" alt="챗봇/LLM/RAG/해외여행보험"/>
+      <a href="https://www.youtube.com/watch?v=gEcmpf3WNEk" title="챗봇/RAG/LLM/법률/부동산">
+        <img src="https://github.com/sunha-park/myimages/blob/main/youtube/20250411_162826.png" width="400" alt="챗봇/RAG/LLM/법률/부동산"/>
       </a>
     </td>
   </tr>
